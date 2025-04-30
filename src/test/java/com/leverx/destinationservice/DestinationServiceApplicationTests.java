@@ -1,4 +1,4 @@
-package com.leverx.DestinationService;
+package com.leverx.destinationservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

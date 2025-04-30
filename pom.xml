@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.leverx</groupId>
-	<artifactId>DestinationService</artifactId>
+	<artifactId>destination-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>DestinationService</name>
+	<name>destination-service</name>
 	<description>5th Task of DestinationService</description>
 	<url/>
 	<licenses>
